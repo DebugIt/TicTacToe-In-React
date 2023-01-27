@@ -1,0 +1,15 @@
+.footer ul li{
+    display: inline-block;
+    margin-right: 2rem;
+}
+.footer ul #txt{
+    color: snow;
+    margin-bottom: -2rem;
+    margin-right: 2rem;
+}
+.footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    /* width: 100%; */
+}
